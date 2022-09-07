@@ -8,7 +8,7 @@ Projects done:
 
 2. Salesforecasting
 
-3.Learning rate and optimizer
+ 3.Learning rate and optimizer
 
 4. CNN using Large Dataset
 
