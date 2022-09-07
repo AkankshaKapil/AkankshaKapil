@@ -5,7 +5,10 @@
 
 Projects done:
 1. Churn Prediction
+
 2. Salesforecasting
+
 3.Learning rate and optimizer
+
 4. CNN using Large Dataset
 
