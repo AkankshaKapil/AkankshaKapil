@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkankshaKapil
-- 👀 I’m interested in AI and webprogramming.
-- 🌱 I’m currently learning Machine learning , Deep Learning ,Django .
+- 👀 I’m interested in AI/ML , Deep learning , Gen-AI.
+
 
 
 Projects done:
@@ -9,5 +9,6 @@ Projects done:
 3. Speech Emotion recognition
 4. Blog Summarization
 5. Multi-Agent-Market-Research-System-LLM
+6. Text to SQL using Langgraph.
    
 
