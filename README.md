@@ -8,5 +8,6 @@ Projects done:
 2. Churn Prediction
 3. Speech Emotion recognition
 4. Blog Summarization
+5. Multi-Agent-Market-Research-System-LLM
    
 
